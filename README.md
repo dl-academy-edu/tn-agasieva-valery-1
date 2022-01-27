@@ -1,5 +1,5 @@
 # tn-agasieva-valery-1
-Учебный репозиторий студентки Агасьевой Валерии 1 модуль
+Repository of student Agasyeva Valeriy
 
-* Студент [Агасьева Валерия][https://t.me/Larndt]
-* Наставник [Набокова Татьяна][https://t.me/shookli]
+* Student [Agasyeva Valeriay][https://t.me/Larndt]
+* Mentor [Nabokova Tatiana][https://t.me/shookli]
